@@ -1,0 +1,12 @@
+{
+  "name": "tot",
+  "version": "1.0.0",
+  "description": "Web-to-APK converter deployed on Netlify",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build step not required for static site'"
+  },
+  "dependencies": {
+    "axios": "^1.7.3"
+  }
+}
